@@ -1,1 +1,6 @@
+# app-ads.txt for meercat.red
+# Replace the publisher id with your real AdMob publisher id when ready.
+# Example format:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
